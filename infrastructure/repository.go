@@ -1,4 +1,4 @@
-package domain
+package infrastructure
 
 import "github.com/Ad3bay0c/ddd-structure/domain/entity"
 
