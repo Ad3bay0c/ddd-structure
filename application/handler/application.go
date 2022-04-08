@@ -7,3 +7,7 @@ import (
 type Application struct {
 	UserDb infrastructure.DBInterface
 }
+
+func Abs() {
+
+}
